@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://i.imgur.com/RgYrhkL.png | width=300)
+<img src="https://i.imgur.com/RgYrhkL.png" width=300 />
 
 <!--
 **davidhenley/davidhenley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
