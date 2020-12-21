@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/RgYrhkL.png" width=300 />
 
-[![davidhenley's github stats](https://github-readme-stats.vercel.app/api?username=davidhenley&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![davidhenley's github stats](https://github-readme-stats.vercel.app/api?username=davidhenley&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/davidhenley/github-readme-stats)
 
 <!--
 **davidhenley/davidhenley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
